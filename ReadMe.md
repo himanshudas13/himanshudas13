@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I’m a passionate machine learning enthusiast currently working on developing a next-frame prediction model. My focus is on combining predictive accuracy with efficient cloud solutions, as I’m actively expanding my Cloud skills.<br><br>I have solid experience with regressors and classifiers, and while I tried development, I find machine learning much more exciting and impactful. I’m always eager to tackle complex problems and explore new innovations in the field of AI and data science.
+Hello! I’m a passionate machine learning, and I’m actively expanding my Cloud skills.<br><br>I have solid experience with regressors and classifiers, and while I tried development, I find machine learning much more exciting and impactful. I’m always eager to tackle complex problems and explore new innovations in the field of AI and data science.
 
 
 ## 🌐 Socials:
